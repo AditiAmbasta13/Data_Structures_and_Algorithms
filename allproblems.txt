@@ -1,0 +1,231 @@
+⭐Binary Tree
+✅Binary Tree - inorder, preorder, postorder traversal
+✅Building a Binary Tree from Inorder and Preorder Traversals
+✅Building a Binary Tree from Inorder and Postorder Traversals
+✅Level Order Traversal
+✅Sum At Kth Level
+✅Count Nodes in BT
+✅Sum of Nodes in BT
+✅Height of Tree
+✅Diameter of a tree, number of node in the longest path between two leaves
+✅Sum Replacement in Binary Tree - Replace sum of each node with the sum of all subtree nodes and itself
+✅Balanced Height in Binary Tree - for each node leftsubtree height - rightsubtree height <= 1
+✅Right View of a Binary Tree
+✅Left View of a Binary Tree
+✅Lowest Commen Ancestor of 2 nodes
+✅Shortest distance between two nodes
+✅Flatten Binary Tree in place
+✅Nodes at Distance K in Binary Tree
+✅Maximum path sum
+
+⭐Binary Search Tree
+✅BST - insert, search, delete
+✅BST - inorder, preorder, postorder
+✅Construct BST from preorder
+✅Construct BST from postorder
+✅Valid BST
+✅Balanced bst from sorted array
+✅Number of Trees using Catalan Numbers
+✅Generate all possible BSTs with 3 nodes
+✅Identical BST
+✅Longest BST in BT
+✅Recover BST
+✅Perform zig-zag traversal
+
+⭐Binary Search
+✅Place Elements to Maximize Minimum Distance
+✅Page Allocation Problem
+✅Painters Partition Problem
+✅Search in Sorted and Rotated Array
+✅Peak of an array
+
+⭐Sliding Window
+✅Maximum sum subarray with len K and sum < X
+✅Smallest subarray with sum > x
+✅Number formed by subarray of size k divisible by 3
+✅Subarray of size k with palindromic concatenation
+✅Maximum perfect nums in len k
+
+⭐Dequeue
+✅Sliding Window maximum
+✅Largest Rectangle in Histogram
+✅Trapping Rainwater
+✅Redundant Parenthesis
+✅Stock Span Problem
+
+⭐Array
+✅Three sum problem
+✅Maximum consecutive 1s subarray and change upto k 0s to 1s
+✅Longest Substring without repeating characters
+
+⭐Queue
+✅Queue using array
+✅Queue using Linked List
+✅Queue using stack - 2 stack approch
+✅Queue using stack - recursion
+✅Stack using queue - push costly
+✅Stack using queue - pop costly
+
+⭐Stack
+✅Reverse a sentence using stack
+✅Reverse a stack
+✅Prefix evalution - backwards
+✅Postfix evaluation - forward
+✅Infix to postfix
+✅Infix to Prefix
+✅Balenced paranthesis
+
+⭐Array
+✅max till i
+✅sum of all subarrays
+✅Longest arithmetic subarray
+✅Record Breaker
+✅First Repeating Element
+✅Subarray with given sum
+✅Smallest missing prime number
+✅Print all possible subarrays
+✅Maximum subarray sum - (Kadane's Algorithm)
+✅Maximum circular subarray sum - (Kadane's Algorithm)
+✅Pair sum problem
+
+⭐Sieve
+✅sieve of eratosthenes - prime numbers between a range
+✅prime factorization using sieve
+
+⭐Recursion
+✅check if an array is sorted or not
+✅print nums till n decreasing
+✅print nums till n increasing
+✅find first occurence of a num
+✅find last occurence of a num
+✅reverse string using recursion
+✅Replace "pi" with "3.14"
+✅Tower Of Hanaoi
+✅Remove all duplicates from string
+✅Move all x to the end of string
+✅Print all substring of a string
+✅Generate substring with ASCII
+✅Print all possible words from phone digits
+✅Print all permutations of a string
+✅Number of Paths possible from start point to end point in a gameboard
+✅Count all possible paths in a maze/matrix - all paths from 0, 0 to n-1, n-1
+✅2 x n Tile-ing problem
+✅Friends Pairing Problem
+✅0/1 Knapsack using recursion
+
+⭐Permutation
+✅array with distinct integers permute unique integers
+✅array with duplicate integers permute unique integers
+
+⭐Backtracking
+✅Rat in a maze
+✅NQueen
+
+⭐LinkedList
+✅LinkedList Operations
+✅Reverse LL
+✅Reverse K LL
+✅Detect Cycle
+✅Remove Cycle
+✅Append Last K Nodes to start of LL
+✅Point of Intersection of 2 LL
+✅Merge two sorted LL
+✅Even after Odd in LL
+
+⭐String
+✅Palindrome
+✅Largest word in a sentence
+✅Convert lowercase to uppercase
+✅Convert uppercase to lowercase
+✅Biggest number from numeric string
+✅Max frequency in string
+
+⭐Sorts
+✅Count Sort
+✅DNF Sort
+✅Wave Sort
+✅Count Inversions
+
+⭐Matrix
+✅spiral order matrix traversal
+✅matrix multiplication
+✅matrix transpose
+✅matrix search
+
+⭐Bits
+✅Get Bit
+✅Set Bit
+✅Clear Bit
+✅Update Bit
+✅Check if given num is a power of 2
+✅Count 1s in binary digit
+✅Generate all possible subsets of a set
+✅Find unique num in arr where all nums are present twice except one
+✅Find unique num in arr whrre all nums are present twice except two
+✅Find unique num in arr whwre all nums are present thrice except one
+
+⭐Graphs
+✅Adjacency matrix
+✅Adjacency list
+✅BFS
+✅DFS
+✅Topological Sort
+✅Cycle Detection in Undirected Graph
+✅Cycle Detection in Directed Graph
+✅Find the num of connected components in graph and its size
+✅Bipartite Graph
+✅Cycle Detection in Undirected Graph using DSU
+✅Kruskal Algorithm - Minimum Spanning Tree
+✅Prims Algorithm - Minimum Spanning Tree
+✅Dijkstra Algorithm
+✅Bellman Ford
+✅Floyd Warshall
+✅Snake and Ladder
+✅Surrounded regions
+
+⭐DP
+✅Fibonacci Numbers
+✅Minimum number of squares needed whose sum is n
+✅Coin Change Problem - No. of ways
+✅0-1 Knapsack
+✅Longest Increasing Subsequence
+✅Longest Common Subsequence
+✅Matrix Chain Multiplication
+✅Minimum Jumps to Reach End
+✅Optimal Game Strategy
+✅Number of Subsequences
+✅Count Number of Binary Strings w/o cons 1
+✅0-N Knapsack
+✅Kadane Algorithm
+✅Maximum Length of Bitonic Subsequence
+✅Friends Paring Problem
+✅Ugly Numbers
+✅LCS in 3 strings
+✅K-Ordered LCS
+
+⭐Greedy
+✅Coin Changing
+✅Activity Selection
+✅Frac Knap
+✅Optimal pattern merge
+✅Maximum and Minimum Difference
+✅Expedition
+
+⭐Hashing
+✅Count frequency of elements
+✅Vertical Order Print
+✅Number of Subarrays with Sum Zero
+✅Sliding Window Technique
+✅TOP K MOST FREQUENT ELEMENTS
+✅Sudoku Solver
+
+⭐Heap
+✅Heapify
+✅Min_heap Max_heap using libs
+✅Median of Running Stream
+✅Merge K sorted Arrays
+✅Smallest Sequence with sum K
+
+⭐Tries
+✅Tries Data Structure - insert, search, prefix
+✅Digital Dictionary

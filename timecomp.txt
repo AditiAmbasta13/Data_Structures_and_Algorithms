@@ -1,0 +1,72 @@
+Data Structures and Algorithms: Time Complexity
+Array
+Access: O(1)
+Search: O(n)
+Insertion: O(n)
+Deletion: O(n)
+
+Linked List
+Access: O(n)
+Search: O(n)
+Insertion: O(1) (at head), O(n) (at tail)
+Deletion: O(1) (at head), O(n) (at tail)
+
+Stack
+Access: O(n)
+Search: O(n)
+Insertion: O(1)
+Deletion: O(1)
+
+Queue
+Access: O(n)
+Search: O(n)
+Insertion: O(1)
+Deletion: O(1)
+
+Binary Search Tree (BST)
+Access: O(log n)
+Search: O(log n)
+Insertion: O(log n)
+Deletion: O(log n)
+Worst Case (unbalanced): O(n) for all operations
+
+Hash Table
+Access: N/A
+Search: O(1) (average), O(n) (worst case)
+Insertion: O(1) (average), O(n) (worst case)
+Deletion: O(1) (average), O(n) (worst case)
+
+Heap
+Access: O(n)
+Search: O(n)
+Insertion: O(log n)
+Deletion: O(log n)
+Find Min/Max: O(1)
+
+Graph
+Adjacency Matrix:
+Space Complexity: O(V^2)
+Add Edge: O(1)
+Remove Edge: O(1)
+Check Edge: O(1)
+
+Adjacency List:
+Space Complexity: O(V + E)
+Add Edge: O(1)
+Remove Edge: O(E)
+Check Edge: O(V)
+
+Sorting Algorithms
+Bubble Sort: O(n^2)
+Selection Sort: O(n^2)
+Insertion Sort: O(n^2)
+Merge Sort: O(n log n)
+Quick Sort: O(n log n) (average), O(n^2) (worst case)
+Heap Sort: O(n log n)
+Counting Sort: O(n + k)
+Radix Sort: O(nk)
+Bucket Sort: O(n + k)
+
+Searching Algorithms
+Linear Search: O(n)
+Binary Search: O(log n)
